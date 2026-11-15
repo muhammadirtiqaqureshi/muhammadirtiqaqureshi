@@ -17,7 +17,7 @@ My academic and research interests include **musculoskeletal physiotherapy, spor
 - **Academia.edu:** [Academic Profile](https://independent.academia.edu/MuhammadIrtiqaQureshi)
 - **About.me:** [Personal Profile](https://about.me/muhammadirtiqaqureshi)
 - **Gravatar:** [Profile](https://gravatar.com/muhammadirtiqaqureshi)
-- **Zenodo:** [Poster](https://doi.org/10.5281/zenodo.24081810).
+- **Zenodo:** [Poster](https://doi.org/10.5281/zenodo.24081810)
 
 ## Research Interests
 
